@@ -8,3 +8,4 @@ Inspired by [Let's Go: Learn Go in 30 days](https://github.com/canro91/LetsGo)
 * [Day 4](./day-4) - Structs, methods & interfaces
 * [Day 5](./day-5) - Simple shell
 * [Day 6](./day-6) - Pointers & errors
+* [Day 7](./day-7) - Maps
