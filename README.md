@@ -10,3 +10,4 @@ Inspired by [Let's Go: Learn Go in 30 days](https://github.com/canro91/LetsGo)
 * [Day 6](./day-6) - Pointers & errors
 * [Day 7](./day-7) - Maps
 * [Day 8](./day-8) - Dependency Injection
+* [Day 9](./day-9) - Calling an API
