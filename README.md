@@ -12,3 +12,4 @@ Inspired by [Let's Go: Learn Go in 30 days](https://github.com/canro91/LetsGo)
 * [Day 8](./day-8) - Dependency Injection
 * [Day 9](./day-9) - Calling an API
 * [Day 10](./day-10) - Accepting input through a pipe
+* [Day 11](./day-11) - Faker
