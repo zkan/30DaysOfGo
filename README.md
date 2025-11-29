@@ -15,3 +15,4 @@ Inspired by [Let's Go: Learn Go in 30 days](https://github.com/canro91/LetsGo)
 * [Day 11](./day-11) - Faker
 * [Day 12](./day-12) - Mocking
 * [Day 13](./day-13) - Revisiting interfaces
+* [Day 14](./day-14) - Error handling
