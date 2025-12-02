@@ -82,7 +82,7 @@ func TestHandler(t *testing.T) {
     request := httptest.NewRequest(http.MethodGet, "/", nil)
 
     cancellingCtx, cancel := context.WithCancel(request.Context())
-    time.AfterFunc(5*time.Millisecond, cancel)
+    time.AfterFunc(5 * time.Millisecond, cancel)
     request = request.WithContext(cancellingCtx)
 
     response := &SpyResponseWriter{}
