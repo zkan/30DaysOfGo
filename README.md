@@ -17,4 +17,4 @@ Inspired by [Let's Go: Learn Go in 30 days](https://github.com/canro91/LetsGo)
 * [Day 13](./day-13) - Revisiting interfaces
 * [Day 14](./day-14) - Error handling
 * [Day 15](./day-15) - Lists
-* [Day 15](./day-16) - Linked Lists
+* [Day 16](./day-16) - Linked Lists
