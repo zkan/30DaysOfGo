@@ -19,3 +19,4 @@ Inspired by [Let's Go: Learn Go in 30 days](https://github.com/canro91/LetsGo)
 * [Day 15](./day-15) - Lists
 * [Day 16](./day-16) - Linked Lists
 * [Day 17](./day-17) - Context
+* [Day 18](./day-18) - Concurrency
