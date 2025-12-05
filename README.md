@@ -21,3 +21,4 @@ Inspired by [Let's Go: Learn Go in 30 days](https://github.com/canro91/LetsGo)
 * [Day 17](./day-17) - Context
 * [Day 18](./day-18) - Concurrency
 * [Day 19](./day-19) - Goroutines
+* [Day 20](./day-20) - HTTP Server (GET)
