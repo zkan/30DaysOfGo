@@ -25,3 +25,4 @@ Inspired by [Let's Go: Learn Go in 30 days](https://github.com/canro91/LetsGo)
 * [Day 21](./day-21) - HTTP Server (POST)
 * [Day 22](./day-22) - Revisiting error types
 * [Day 23](./day-23) - Logging
+* [Day 24](./day-24) - Worker Pools
