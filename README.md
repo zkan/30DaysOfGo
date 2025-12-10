@@ -26,3 +26,4 @@ Inspired by [Let's Go: Learn Go in 30 days](https://github.com/canro91/LetsGo)
 * [Day 22](./day-22) - Revisiting error types
 * [Day 23](./day-23) - Logging
 * [Day 24](./day-24) - Worker Pools
+* [Day 25](./day-25) - Reading files
