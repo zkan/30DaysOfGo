@@ -30,3 +30,4 @@ Inspired by [Let's Go: Learn Go in 30 days](https://github.com/canro91/LetsGo)
 * [Day 26](./day-26) - Developing a RESTful API with Go and Gin
 * [Day 27](./day-27) - Accessing a relational database
 * [Day 28](./day-28) - Inserting data to a relational database
+* [Day 29](./day-29) - Developing a RESTful API with Go and Fiber
